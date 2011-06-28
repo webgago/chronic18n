@@ -1,0 +1,190 @@
+ru:
+  # Misc
+  утро: morning
+  утром: morning
+  днем: afternoon
+  днём: afternoon
+  день: afternoon
+  полдень: noon
+  полденем: noon
+  ночь: night
+  ночью: night
+  вечер: evening
+  вечера: evening
+  это: this
+  этим: this
+  первый: first
+  первое: first
+  первая: first
+  третья: third
+  третье: third
+  третий: third
+  тремя: third
+  четвертое: fourth
+  четвертый: fourth
+  quinto: fifth
+  sexto: sixth
+  septimo: seventh
+  séptimo: seventh
+  sétimo: seventh
+  setimo: seventh
+  octavo: eighth
+  noveno: nineth
+  décimo: tenth
+  decimo: tenth
+
+  # Common
+  завтра: tomorrow
+  вчера: yesterday
+  следующий: next
+  следующие: next
+  следующая: next
+  следующее: next
+  следующую: next
+  следущий: next
+  след: next
+  последний: last
+  последние: last
+  последняя: last
+  последнюю: last
+  последнего: last
+  сегодня: today
+  секунда: second
+  секунды: seconds
+  секунд: seconds
+  сек: seconds
+  минута: minute
+  минуты: minutes
+  минут: minutes
+  мин: minutes
+  часов: hour
+  часы: hours
+  часа: hour
+  час: hour
+  день: day
+  дня: day
+  дней: days
+  дни: days
+  неделя: week
+  недели: weeks
+  неделю: week
+  недель: weeks
+  нед: week
+  месяц: month
+  мес: month
+  месяцы: months
+  месяцов: months
+  год: year
+  лет: years
+  году: years
+  годы: years
+  один: one
+  два: two
+  в: in
+
+  # Numbers
+  uno: one
+  dos: two
+  tres: three
+  cuatro: four
+  cinco: five
+  seis: six
+  siete: seven
+  ocho: eight
+  nueve: nine
+  diez: ten
+  once: eleven
+  doce: twelve
+  trece: thirteen
+  catorce: fourteen
+  quince: fifteen
+  dieciseis: sixteen
+  dieciséis: sixteen
+  diecisiete: seventeen
+  dieciocho: eighteen
+  diecinueve: nineteen
+  veinte: twenty
+  treinta: thirty
+  cuarenta: fourty
+  cincuenta: fifty
+  sesenta: sixty
+  setenta: seventy
+  ochenta: eighty
+  noventa: ninety
+  cien: one hundred
+  doscientos: two hundred
+  trescientos: three hundred
+  cuatrocientos: four hundred
+  quinientos: five hundred
+  seiscientos: six hundred
+  setecientos: seven hundred
+  ochocientos: eight hundred
+  novecientos: nine hundred
+  mil: thousand
+
+  # Wdays
+  воскресенье: sunday
+  воскресенья: sunday
+  воскресений: sunday
+  воск: sunday
+  вс: sunday
+  понедельник: monday
+  пон.: monday
+  martes: tuesday
+  mar: tuesday
+  miercoles: wednesday
+  miércoles: wednesday
+  mie: wednesday
+  jueves: thursday
+  jue: thursday
+  viernes: friday
+  vie: friday
+  sabado: saturday
+  sábado: saturday
+  sab: saturday
+
+  # Months
+  enero: january
+  febrero: february
+  marzo: march
+  abril: april
+  mayo: may
+  junio: june
+  julio: july
+  agosto: august
+  septiembre: september
+  setiembre: september
+  octubre: october
+  noviembre: november
+  diciembre: december
+  ene: january
+  feb: february
+  mar: march
+  abr: april
+  may: may
+  jun: june
+  jul: july
+  ago: august
+  sep: september
+  set: september
+  oct: october
+  nov: november
+  dic: december
+
+  # Season
+  verano: summer
+  otono: autumn
+  otoño: autumn
+  invierno: winter
+  primavera: spring
+
+  через неделю: 1 week hence
+  сейчас: now
+  сегодня: today
+  неделю: week
+  завтра: tomorrow
+  послезавтра: 1 day after tomorrow
+  выходные: weekend
+  обед: afternoon
+  с: from
+  до: to
